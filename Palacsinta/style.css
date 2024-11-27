@@ -4,3 +4,16 @@ body {
     max-width: 1000px;
     margin: 0px auto;
 }
+
+#keret {
+    width: 90%;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+#keret2 {
+    display: block;
+    margin: auto;
+    width: 45%;
+}
